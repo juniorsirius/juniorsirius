@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juniorsirius
+- 👋 Hi, I’m Junior Sirius
 - 👀 I’m interested in Web Development, Security
 
 <!---
